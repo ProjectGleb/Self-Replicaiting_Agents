@@ -1,11 +1,8 @@
 ---
----
 # T-1000: Self-Replicating LLM Agent Swarms.
----
 Goal: in this paper I intend to investigate how dynamic language swarms compare to solid state swarms in completing open ended tasks.
 
 ## Authors
-
 <div align="center">
 	<strong>Gleb Razgar</strong><br>
 </div>
@@ -15,6 +12,7 @@ Goal: in this paper I intend to investigate how dynamic language swarms compare 
 <div align="center">
 	gleb.razgar@gmail.com  
 </div>
+
 
 To summarize, my contributions are the following:
 - I propose T-1000, a new paradigm in agent architecture that allows for the dynamic design of hierarchical swarms over a combinatorial space of possible reasoning and acting steps.
