@@ -11,7 +11,7 @@ Goal: in this paper I intend to investigate how dynamic language swarms compare 
 </div>
 <div align="center">
 	gleb.razgar@gmail.com  
-</div>
+</div><br>
 
 
 To summarize, my contributions are the following:
