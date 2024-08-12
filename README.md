@@ -6,7 +6,7 @@ Goal: in this paper I intend to investigate how dynamic language swarms compare 
 ## Authors
 
 <div align="center">
-	<h4>Gleb</h4>
+	Gleb
 </div>
 
 
