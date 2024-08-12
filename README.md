@@ -2,10 +2,12 @@
 Goal: in this paper I intend to investigate how dynamic language swarms compare to solid state swarms in completing open ended tasks.
 
 <center>
-  Gleb Razgar  
+<strong>Gleb Razgar</strong><br></center>
+<center>
   Self-proclaimed AI whisperer  
+</center>
+<center>
   gleb.razgar@gmail.com  
-  To-be peer reviewed after completion
 </center>
 
 To summarize, my contributions are the following:
