@@ -2,15 +2,14 @@
 # T-1000: Self-Replicating LLM Agent Swarms.
 Goal: in this paper I intend to investigate how dynamic language swarms compare to solid state swarms in completing open ended tasks.
 
-## Authors
 <div align="center">
-	<strong>Gleb Razgar</strong><br>
+	<strong>Gleb Razgar</strong><br> | Find a Co-auther (Praveen, Joe or else)
 </div>
 <div align="center">
-	Self-proclaimed AI whisperer  
+	Self-proclaimed AI whisperer  | Co-authers institute
 </div>
 <div align="center">
-	gleb.razgar@gmail.com  
+	gleb.razgar@gmail.com  | Co-auther
 </div><br>
 
 
