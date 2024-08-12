@@ -3,13 +3,13 @@
 Goal: in this paper I intend to investigate how dynamic language swarms compare to solid state swarms in completing open ended tasks.
 
 <div align="center">
-	<strong>Gleb Razgar</strong><br> | Find a Co-auther (Praveen, Joe or else)
+	<strong>Gleb Razgar | Kristina Shar</strong><br> 
 </div>
 <div align="center">
-	Self-proclaimed AI whisperer  | Co-authers institute
+	Self-proclaimed AI whisperer  | Alan Turing Institute
 </div>
 <div align="center">
-	gleb.razgar@gmail.com  | Co-auther
+	gleb.razgar@gmail.com  | kristina@turing.ac.uk
 </div><br>
 
 
